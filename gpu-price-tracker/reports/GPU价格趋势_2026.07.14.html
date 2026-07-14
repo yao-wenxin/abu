@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<title>GPU 算力价格趋势 2026-07-14</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  body { font-family: -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+         margin: 0; padding: 24px; background: #0f172a; color: #e2e8f0; }
+  h1 { margin: 0 0 4px; font-size: 24px; }
+  h2 { margin: 24px 0 12px; font-size: 18px; color: #93c5fd; border-left: 4px solid #3b82f6; padding-left: 8px; }
+  .meta { color: #94a3b8; font-size: 13px; margin-bottom: 16px; }
+  .card { background: #1e293b; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 6px 8px; text-align: left; border-bottom: 1px solid #334155; }
+  th { color: #cbd5e1; background: #0f172a; }
+  tr:hover td { background: #273449; }
+  .up { color: #f87171; }
+  .down { color: #4ade80; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .signal { font-size: 16px; padding: 12px 16px; border-radius: 8px; background: #1e293b; }
+  .chart-box { background: #1e293b; border-radius: 12px; padding: 12px; height: 360px; }
+</style>
+</head>
+<body>
+  <h1>GPU 算力价格趋势报告</h1>
+  <div class="meta">数据日期: <b>2026-07-14</b> · 汇率 USD/CNY = 7.18 · 数据源: mock · 条数: 112</div>
+
+  <div class="card">
+    <h2>🚦 AI 基建瓶颈信号</h2>
+    <div class="signal">🔴 算力瓶颈仍在（高端型号普涨 > 3%） &nbsp;|&nbsp; 国产溢价: 910C / H100 = 0.17×（国产折价）</div>
+  </div>
+
+  <h2>📊 今日价格水位（型号 × 平台）</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>厂商</th><th>均价</th><th>币种</th><th>均价(USD)</th><th>最低</th><th>最高</th><th>平台数</th></tr></thead>
+      <tbody>
+        <tr><td>H100</td><td>国际-高端</td><td>NVIDIA</td><td>16.9181</td><td>USD</td><td>16.9181</td><td>2.3306</td><td>31.6724</td><td>8</td></tr><tr><td>H200</td><td>国际-高端</td><td>NVIDIA</td><td>21.7705</td><td>USD</td><td>21.7705</td><td>2.9923</td><td>38.8898</td><td>8</td></tr><tr><td>B200</td><td>国际-高端</td><td>NVIDIA</td><td>30.1945</td><td>USD</td><td>30.1945</td><td>4.0748</td><td>54.2191</td><td>8</td></tr><tr><td>GB200</td><td>国际-旗舰</td><td>NVIDIA</td><td>41.2989</td><td>USD</td><td>41.2989</td><td>6.1866</td><td>71.8108</td><td>8</td></tr><tr><td>GB300</td><td>国际-旗舰</td><td>NVIDIA</td><td>48.4395</td><td>USD</td><td>48.4395</td><td>7.3841</td><td>87.0676</td><td>8</td></tr><tr><td>A100-80G</td><td>国际-高端</td><td>NVIDIA</td><td>10.5198</td><td>USD</td><td>10.5198</td><td>1.4367</td><td>19.2639</td><td>8</td></tr><tr><td>L40S</td><td>国际-中端</td><td>NVIDIA</td><td>7.8198</td><td>USD</td><td>7.8198</td><td>1.067</td><td>14.0383</td><td>8</td></tr><tr><td>A6000</td><td>国际-中端</td><td>NVIDIA</td><td>5.0168</td><td>USD</td><td>5.0168</td><td>0.7221</td><td>9.161</td><td>8</td></tr><tr><td>RTX 4090</td><td>消费级-旗舰</td><td>NVIDIA</td><td>3.0102</td><td>USD</td><td>3.0102</td><td>0.4071</td><td>5.4884</td><td>8</td></tr><tr><td>RTX 3090</td><td>消费级-高端</td><td>NVIDIA</td><td>1.6387</td><td>USD</td><td>1.6387</td><td>0.2296</td><td>2.8928</td><td>8</td></tr><tr><td>Ascend 910B</td><td>国产-高端</td><td>华为昇腾</td><td>13.7499</td><td>CNY</td><td>1.915</td><td>10.197</td><td>21.4581</td><td>8</td></tr><tr><td>Ascend 910C</td><td>国产-旗舰</td><td>华为昇腾</td><td>20.4383</td><td>CNY</td><td>2.8466</td><td>15.2295</td><td>30.105</td><td>8</td></tr><tr><td>海光 DCU</td><td>国产-中端</td><td>海光信息</td><td>8.6796</td><td>CNY</td><td>1.2089</td><td>6.6157</td><td>11.4492</td><td>8</td></tr><tr><td>寒武纪 MLU</td><td>国产-中端</td><td>寒武纪</td><td>10.0307</td><td>CNY</td><td>1.397</td><td>7.1484</td><td>14.7319</td><td>8</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>📈 主力型号 30 日涨跌</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>30 日涨跌</th><th>数据点</th></tr></thead>
+      <tbody>
+        <tr><td>B200</td><td>国际-高端</td><td class='up'>+14.29%</td><td>8</td></tr><tr><td>RTX 3090</td><td>消费级-高端</td><td class='up'>+9.70%</td><td>8</td></tr><tr><td>L40S</td><td>国际-中端</td><td class='up'>+8.80%</td><td>8</td></tr><tr><td>H100</td><td>国际-高端</td><td class='up'>+4.99%</td><td>8</td></tr><tr><td>Ascend 910B</td><td>国产-高端</td><td class='up'>+3.72%</td><td>8</td></tr><tr><td>A6000</td><td>国际-中端</td><td class='up'>+3.62%</td><td>8</td></tr><tr><td>RTX 4090</td><td>消费级-旗舰</td><td class='up'>+2.91%</td><td>8</td></tr><tr><td>海光 DCU</td><td>国产-中端</td><td class='up'>+2.84%</td><td>8</td></tr><tr><td>GB200</td><td>国际-旗舰</td><td class='up'>+0.03%</td><td>8</td></tr><tr><td>GB300</td><td>国际-旗舰</td><td class='down'>-0.55%</td><td>8</td></tr><tr><td>Ascend 910C</td><td>国产-旗舰</td><td class='down'>-0.78%</td><td>8</td></tr><tr><td>寒武纪 MLU</td><td>国产-中端</td><td class='down'>-0.85%</td><td>8</td></tr><tr><td>A100-80G</td><td>国际-高端</td><td class='down'>-2.06%</td><td>8</td></tr><tr><td>H200</td><td>国际-高端</td><td class='down'>-8.74%</td><td>8</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>📉 价格走势（USD/小时）</h2>
+  <div class="grid">
+    <div class="chart-box"><canvas id="c1"></canvas></div>
+    <div class="chart-box"><canvas id="c2"></canvas></div>
+  </div>
+
+<script>
+  const labels = ["2026-07-14"];
+  const datasets = [{"label": "H100", "data": [2.6591], "borderColor": "#ef4444", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "H200", "data": [3.3556], "borderColor": "#f97316", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "B200", "data": [5.0821], "borderColor": "#eab308", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "GB200", "data": [6.6268], "borderColor": "#22c55e", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "GB300", "data": [7.7796], "borderColor": "#06b6d4", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A100-80G", "data": [1.7235], "borderColor": "#3b82f6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "L40S", "data": [1.2677], "borderColor": "#8b5cf6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A6000", "data": [0.771], "borderColor": "#ec4899", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 4090", "data": [0.4698], "borderColor": "#14b8a6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 3090", "data": [0.285], "borderColor": "#a3a3a3", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910B", "data": [1.4745], "borderColor": "#dc2626", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910C", "data": [2.1973], "borderColor": "#0ea5e9", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "海光 DCU", "data": [0.9476], "borderColor": "#7c3aed", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "寒武纪 MLU", "data": [1.0555], "borderColor": "#10b981", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}];
+  const baseOpts = {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: '#e2e8f0' } } },
+    scales: {
+      x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+      y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+    },
+  };
+  new Chart(document.getElementById('c1'), { type: 'line', data: { labels, datasets }, options: baseOpts });
+  // 第二张图：消费级+国产子集
+  const subset = datasets.filter(d => ['RTX 4090','RTX 3090','L40S','A6000','Ascend 910B','Ascend 910C','海光 DCU','寒武纪 MLU'].includes(d.label));
+  new Chart(document.getElementById('c2'), { type: 'line', data: { labels, datasets: subset }, options: baseOpts });
+</script>
+</body>
+</html>
