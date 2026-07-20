@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<title>GPU 算力价格趋势 2026-07-20</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  body { font-family: -apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+         margin: 0; padding: 24px; background: #0f172a; color: #e2e8f0; }
+  h1 { margin: 0 0 4px; font-size: 24px; }
+  h2 { margin: 24px 0 12px; font-size: 18px; color: #93c5fd; border-left: 4px solid #3b82f6; padding-left: 8px; }
+  .meta { color: #94a3b8; font-size: 13px; margin-bottom: 16px; }
+  .card { background: #1e293b; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 6px 8px; text-align: left; border-bottom: 1px solid #334155; }
+  th { color: #cbd5e1; background: #0f172a; }
+  tr:hover td { background: #273449; }
+  .up { color: #f87171; }
+  .down { color: #4ade80; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .signal { font-size: 16px; padding: 12px 16px; border-radius: 8px; background: #1e293b; }
+  .chart-box { background: #1e293b; border-radius: 12px; padding: 12px; height: 360px; }
+</style>
+</head>
+<body>
+  <h1>GPU 算力价格趋势报告</h1>
+  <div class="meta">数据日期: <b>2026-07-20</b> · 汇率 USD/CNY = 7.18 · 条数: 112</div>
+
+  <div class="card">
+    <h2>🚦 AI 基建瓶颈信号</h2>
+    <div class="signal">🔴 算力供给宽松（高端型号 30 日平均 -19.89%） &nbsp;|&nbsp; 国产溢价: 910C / H100 = 7.74× （国产溢价）</div>
+  </div>
+
+  <h2>📊 今日价格水位（型号 × 平台）</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>厂商</th><th>均价</th><th>币种</th><th>均价(USD)</th><th>最低</th><th>最高</th><th>平台数</th></tr></thead>
+      <tbody><tr><td>GB300</td><td>国际-旗舰</td><td>NVIDIA</td><td>37.3381</td><td>CNY</td><td>7.9406</td><td>5.4431</td><td>11.3164</td><td>8</td></tr>
+<tr><td>GB200</td><td>国际-旗舰</td><td>NVIDIA</td><td>33.8395</td><td>CNY</td><td>7.0558</td><td>4.8626</td><td>9.2523</td><td>8</td></tr>
+<tr><td>B200</td><td>国际-高端</td><td>NVIDIA</td><td>21.4289</td><td>CNY</td><td>4.4551</td><td>2.8942</td><td>6.2138</td><td>8</td></tr>
+<tr><td>H200</td><td>国际-高端</td><td>NVIDIA</td><td>17.3800</td><td>CNY</td><td>3.6310</td><td>2.5115</td><td>5.0565</td><td>8</td></tr>
+<tr><td>H100</td><td>国际-高端</td><td>NVIDIA</td><td>13.4175</td><td>CNY</td><td>2.8220</td><td>1.8495</td><td>3.8382</td><td>8</td></tr>
+<tr><td>A100-80G</td><td>国际-高端</td><td>NVIDIA</td><td>8.2468</td><td>CNY</td><td>1.7217</td><td>1.3013</td><td>2.3605</td><td>8</td></tr>
+<tr><td>L40S</td><td>国际-中端</td><td>NVIDIA</td><td>5.4946</td><td>CNY</td><td>1.1581</td><td>0.8369</td><td>1.5896</td><td>8</td></tr>
+<tr><td>A6000</td><td>国际-中端</td><td>NVIDIA</td><td>4.0742</td><td>CNY</td><td>0.8341</td><td>0.5827</td><td>1.0568</td><td>8</td></tr>
+<tr><td>RTX 4090</td><td>消费级-旗舰</td><td>NVIDIA</td><td>2.1654</td><td>CNY</td><td>0.4514</td><td>0.3250</td><td>0.5973</td><td>8</td></tr>
+<tr><td>RTX 3090</td><td>消费级-高端</td><td>NVIDIA</td><td>1.2143</td><td>CNY</td><td>0.2552</td><td>0.1873</td><td>0.3474</td><td>8</td></tr>
+<tr><td>Ascend 910C</td><td>国产-旗舰</td><td>华为昇腾</td><td>106.8341</td><td>CNY</td><td>21.8327</td><td>15.3635</td><td>28.0426</td><td>8</td></tr>
+<tr><td>Ascend 910B</td><td>国产-高端</td><td>华为昇腾</td><td>68.4330</td><td>CNY</td><td>14.4542</td><td>10.3149</td><td>18.4234</td><td>8</td></tr>
+<tr><td>海光 DCU</td><td>国产-中端</td><td>海光信息</td><td>46.8633</td><td>CNY</td><td>9.8113</td><td>6.6649</td><td>13.2608</td><td>8</td></tr>
+<tr><td>寒武纪 MLU</td><td>国产-中端</td><td>寒武纪</td><td>46.5295</td><td>CNY</td><td>9.5724</td><td>6.8926</td><td>12.7951</td><td>8</td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>📈 主力型号 30 日涨跌</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>30 日涨跌</th><th>数据点</th></tr></thead>
+      <tbody><tr><td>海光 DCU</td><td>国产-中端</td><td><span class="up">+711.62%</span></td><td>5</td></tr>
+<tr><td>Ascend 910C</td><td>国产-旗舰</td><td><span class="up">+666.98%</span></td><td>5</td></tr>
+<tr><td>Ascend 910B</td><td>国产-高端</td><td><span class="up">+654.78%</span></td><td>5</td></tr>
+<tr><td>寒武纪 MLU</td><td>国产-中端</td><td><span class="up">+585.19%</span></td><td>5</td></tr>
+<tr><td>GB200</td><td>国际-旗舰</td><td><span class="down">-15.78%</span></td><td>5</td></tr>
+<tr><td>H100</td><td>国际-高端</td><td><span class="down">-17.75%</span></td><td>5</td></tr>
+<tr><td>H200</td><td>国际-高端</td><td><span class="down">-17.77%</span></td><td>5</td></tr>
+<tr><td>A6000</td><td>国际-中端</td><td><span class="down">-18.68%</span></td><td>5</td></tr>
+<tr><td>A100-80G</td><td>国际-高端</td><td><span class="down">-19.95%</span></td><td>5</td></tr>
+<tr><td>GB300</td><td>国际-旗舰</td><td><span class="down">-21.00%</span></td><td>5</td></tr>
+<tr><td>RTX 3090</td><td>消费级-高端</td><td><span class="down">-23.13%</span></td><td>5</td></tr>
+<tr><td>RTX 4090</td><td>消费级-旗舰</td><td><span class="down">-25.46%</span></td><td>5</td></tr>
+<tr><td>L40S</td><td>国际-中端</td><td><span class="down">-25.53%</span></td><td>5</td></tr>
+<tr><td>B200</td><td>国际-高端</td><td><span class="down">-27.09%</span></td><td>5</td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>📉 价格走势（USD/小时）</h2>
+  <div class="grid">
+    <div class="chart-box"><canvas id="c1"></canvas></div>
+    <div class="chart-box"><canvas id="c2"></canvas></div>
+  </div>
+
+<script>
+  const labels = ["2026-07-14", "2026-07-15", "2026-07-16", "2026-07-17", "2026-07-20"];
+  const datasets = [{"label": "GB300", "data": [10.0514, 9.9727, 8.6302, 8.5677, 7.9406], "borderColor": "#ef4444", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "GB200", "data": [8.3779, 8.4092, 7.2385, 7.2548, 7.0558], "borderColor": "#f97316", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "B200", "data": [6.1108, 6.0756, 4.7081, 4.6704, 4.4551], "borderColor": "#eab308", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "H200", "data": [4.4156, 4.4966, 3.812, 3.7972, 3.631], "borderColor": "#22c55e", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "H100", "data": [3.4311, 3.4659, 2.8555, 2.9225, 2.822], "borderColor": "#06b6d4", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A100-80G", "data": [2.1509, 2.1477, 1.8617, 1.8294, 1.7217], "borderColor": "#3b82f6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "L40S", "data": [1.5552, 1.5381, 1.2132, 1.2065, 1.1581], "borderColor": "#8b5cf6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A6000", "data": [1.0256, 1.0331, 0.8562, 0.8843, 0.8341], "borderColor": "#ec4899", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 4090", "data": [0.6056, 0.6058, 0.4815, 0.4741, 0.4514], "borderColor": "#14b8a6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 3090", "data": [0.332, 0.3319, 0.2729, 0.2704, 0.2552], "borderColor": "#a3a3a3", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910C", "data": [2.8466, 9.4611, 8.7488, 9.3979, 21.8327], "borderColor": "#dc2626", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910B", "data": [1.915, 6.3425, 6.0427, 6.2999, 14.4542], "borderColor": "#0ea5e9", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "海光 DCU", "data": [1.2089, 3.9062, 3.8435, 4.1558, 9.8113], "borderColor": "#7c3aed", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "寒武纪 MLU", "data": [1.397, 4.555, 4.1627, 4.0726, 9.5724], "borderColor": "#10b981", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}];
+  const baseOpts = {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: '#e2e8f0' } } },
+    scales: {
+      x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+      y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+    },
+  };
+  new Chart(document.getElementById('c1'), { type: 'line', data: { labels, datasets }, options: baseOpts });
+  const subset = [{"label": "L40S", "data": [1.5552, 1.5381, 1.2132, 1.2065, 1.1581], "borderColor": "#ef4444", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A6000", "data": [1.0256, 1.0331, 0.8562, 0.8843, 0.8341], "borderColor": "#f97316", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 4090", "data": [0.6056, 0.6058, 0.4815, 0.4741, 0.4514], "borderColor": "#eab308", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 3090", "data": [0.332, 0.3319, 0.2729, 0.2704, 0.2552], "borderColor": "#22c55e", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910C", "data": [2.8466, 9.4611, 8.7488, 9.3979, 21.8327], "borderColor": "#06b6d4", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910B", "data": [1.915, 6.3425, 6.0427, 6.2999, 14.4542], "borderColor": "#3b82f6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "海光 DCU", "data": [1.2089, 3.9062, 3.8435, 4.1558, 9.8113], "borderColor": "#8b5cf6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "寒武纪 MLU", "data": [1.397, 4.555, 4.1627, 4.0726, 9.5724], "borderColor": "#ec4899", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}];
+  new Chart(document.getElementById('c2'), { type: 'line', data: { labels, datasets: subset }, options: baseOpts });
+</script>
+</body>
+</html>
