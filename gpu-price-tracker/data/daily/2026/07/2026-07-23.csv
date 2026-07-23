@@ -1,0 +1,113 @@
+date,model,segment,vendor,platform,price,currency,usd_cny,source
+2026-07-23,H100,国际-高端,NVIDIA,RunPod,2.3383,USD,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,Vast.ai,2.258,USD,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,AWS,5.7423,USD,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,阿里云,23.283,CNY,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,腾讯云,20.6736,CNY,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,华为云,22.5774,CNY,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,AutoDL,14.8331,CNY,7.18,mock+drift
+2026-07-23,H100,国际-高端,NVIDIA,极智算,12.6931,CNY,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,RunPod,3.2447,USD,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,Vast.ai,3.1481,USD,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,AWS,7.1493,USD,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,阿里云,31.2413,CNY,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,腾讯云,24.3847,CNY,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,华为云,31.5675,CNY,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,AutoDL,17.3575,CNY,7.18,mock+drift
+2026-07-23,H200,国际-高端,NVIDIA,极智算,18.4359,CNY,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,RunPod,3.9501,USD,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,Vast.ai,3.794,USD,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,AWS,9.5064,USD,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,阿里云,38.5921,CNY,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,腾讯云,32.9083,CNY,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,华为云,31.1701,CNY,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,AutoDL,26.0969,CNY,7.18,mock+drift
+2026-07-23,B200,国际-高端,NVIDIA,极智算,19.1844,CNY,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,RunPod,6.6234,USD,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,Vast.ai,5.5997,USD,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,AWS,13.9477,USD,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,阿里云,54.5299,CNY,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,腾讯云,52.9118,CNY,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,华为云,46.4538,CNY,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,AutoDL,36.1588,CNY,7.18,mock+drift
+2026-07-23,GB200,国际-旗舰,NVIDIA,极智算,36.3242,CNY,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,RunPod,7.5007,USD,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,Vast.ai,6.3265,USD,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,AWS,15.5515,USD,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,阿里云,62.0638,CNY,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,腾讯云,61.1342,CNY,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,华为云,66.8001,CNY,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,AutoDL,46.4448,CNY,7.18,mock+drift
+2026-07-23,GB300,国际-旗舰,NVIDIA,极智算,39.4927,CNY,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,RunPod,1.4762,USD,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,Vast.ai,1.2402,USD,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,AWS,3.3781,USD,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,阿里云,16.5689,CNY,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,腾讯云,13.6257,CNY,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,华为云,12.1169,CNY,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,AutoDL,10.9352,CNY,7.18,mock+drift
+2026-07-23,A100-80G,国际-高端,NVIDIA,极智算,8.2821,CNY,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,RunPod,1.0626,USD,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,Vast.ai,1.0657,USD,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,AWS,1.9435,USD,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,阿里云,9.7316,CNY,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,腾讯云,9.4656,CNY,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,华为云,8.7797,CNY,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,AutoDL,6.2246,CNY,7.18,mock+drift
+2026-07-23,L40S,国际-中端,NVIDIA,极智算,6.4326,CNY,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,RunPod,0.8081,USD,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,Vast.ai,0.7036,USD,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,AWS,1.5463,USD,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,阿里云,7.6254,CNY,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,腾讯云,6.0085,CNY,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,华为云,6.2943,CNY,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,AutoDL,4.8718,CNY,7.18,mock+drift
+2026-07-23,A6000,国际-中端,NVIDIA,极智算,3.8617,CNY,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,RunPod,0.4609,USD,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,Vast.ai,0.384,USD,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,AWS,0.9337,USD,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,阿里云,3.4174,CNY,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,腾讯云,3.0217,CNY,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,华为云,3.5232,CNY,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,AutoDL,2.3877,CNY,7.18,mock+drift
+2026-07-23,RTX 4090,消费级-旗舰,NVIDIA,极智算,2.1675,CNY,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,RunPod,0.2528,USD,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,Vast.ai,0.2384,USD,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,AWS,0.4573,USD,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,阿里云,2.2935,CNY,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,腾讯云,2.0408,CNY,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,华为云,1.7044,CNY,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,AutoDL,1.3712,CNY,7.18,mock+drift
+2026-07-23,RTX 3090,消费级-高端,NVIDIA,极智算,1.1832,CNY,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,RunPod,10.2831,USD,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,Vast.ai,9.4585,USD,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,AWS,23.1556,USD,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,阿里云,12.0018,CNY,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,腾讯云,10.9712,CNY,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,华为云,13.1764,CNY,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,AutoDL,9.5801,CNY,7.18,mock+drift
+2026-07-23,Ascend 910B,国产-高端,华为昇腾,极智算,7.5091,CNY,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,RunPod,16.3417,USD,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,Vast.ai,15.7119,USD,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,AWS,31.6199,USD,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,阿里云,21.8938,CNY,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,腾讯云,19.1044,CNY,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,华为云,15.8915,CNY,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,AutoDL,12.8856,CNY,7.18,mock+drift
+2026-07-23,Ascend 910C,国产-旗舰,华为昇腾,极智算,10.6866,CNY,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,RunPod,6.4133,USD,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,Vast.ai,6.8164,USD,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,AWS,14.3126,USD,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,阿里云,9.6364,CNY,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,腾讯云,8.7338,CNY,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,华为云,8.498,CNY,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,AutoDL,5.5756,CNY,7.18,mock+drift
+2026-07-23,海光 DCU,国产-中端,海光信息,极智算,5.8376,CNY,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,RunPod,7.2322,USD,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,Vast.ai,6.4728,USD,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,AWS,13.253,USD,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,阿里云,8.9148,CNY,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,腾讯云,8.8774,CNY,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,华为云,7.2538,CNY,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,AutoDL,6.9035,CNY,7.18,mock+drift
+2026-07-23,寒武纪 MLU,国产-中端,寒武纪,极智算,6.0967,CNY,7.18,mock+drift

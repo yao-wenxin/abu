@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<title>GPU 算力价格趋势 2026-07-23</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  body { font-family: -apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+         margin: 0; padding: 24px; background: #0f172a; color: #e2e8f0; }
+  h1 { margin: 0 0 4px; font-size: 24px; }
+  h2 { margin: 24px 0 12px; font-size: 18px; color: #93c5fd; border-left: 4px solid #3b82f6; padding-left: 8px; }
+  .meta { color: #94a3b8; font-size: 13px; margin-bottom: 16px; }
+  .card { background: #1e293b; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 6px 8px; text-align: left; border-bottom: 1px solid #334155; }
+  th { color: #cbd5e1; background: #0f172a; }
+  tr:hover td { background: #273449; }
+  .up { color: #f87171; }
+  .down { color: #4ade80; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .signal { font-size: 16px; padding: 12px 16px; border-radius: 8px; background: #1e293b; }
+  .chart-box { background: #1e293b; border-radius: 12px; padding: 12px; height: 360px; }
+</style>
+</head>
+<body>
+  <h1>GPU 算力价格趋势报告</h1>
+  <div class="meta">数据日期: <b>2026-07-23</b> · 汇率 USD/CNY = 7.18 · 条数: 112</div>
+
+  <div class="card">
+    <h2>🚦 AI 基建瓶颈信号</h2>
+    <div class="signal">🟢 算力供给宽松（高端型号 30 日平均 -16.46%） &nbsp;|&nbsp; 国产溢价: 910C / H100 = 3.19×（国产溢价）</div>
+  </div>
+
+  <h2>📊 今日价格水位（型号 × 平台）</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>厂商</th><th>均价</th><th>币种</th><th>均价(USD)</th><th>最低</th><th>最高</th><th>平台数</th></tr></thead>
+      <tbody><tr><td>RTX 3090</td><td>消费级-高端</td><td>NVIDIA</td><td>1.9254</td><td>USD</td><td>0.2682</td><td>0.1648</td><td>0.4573</td><td>8</td></tr>
+<tr><td>RTX 4090</td><td>消费级-旗舰</td><td>NVIDIA</td><td>3.4110</td><td>USD</td><td>0.4751</td><td>0.3019</td><td>0.9337</td><td>8</td></tr>
+<tr><td>A6000</td><td>国际-中端</td><td>NVIDIA</td><td>6.3273</td><td>USD</td><td>0.8812</td><td>0.5378</td><td>1.5463</td><td>8</td></tr>
+<tr><td>L40S</td><td>国际-中端</td><td>NVIDIA</td><td>8.7337</td><td>USD</td><td>1.2164</td><td>0.8669</td><td>1.9435</td><td>8</td></tr>
+<tr><td>A100-80G</td><td>国际-高端</td><td>NVIDIA</td><td>13.1609</td><td>USD</td><td>1.8330</td><td>1.1535</td><td>3.3781</td><td>8</td></tr>
+<tr><td>H100</td><td>国际-高端</td><td>NVIDIA</td><td>21.0364</td><td>USD</td><td>2.9299</td><td>1.7678</td><td>5.7423</td><td>8</td></tr>
+<tr><td>H200</td><td>国际-高端</td><td>NVIDIA</td><td>27.5274</td><td>USD</td><td>3.8339</td><td>2.4175</td><td>7.1493</td><td>8</td></tr>
+<tr><td>寒武纪 MLU</td><td>国产-中端</td><td>寒武纪</td><td>28.9506</td><td>USD</td><td>4.0321</td><td>0.8491</td><td>13.2530</td><td>8</td></tr>
+<tr><td>海光 DCU</td><td>国产-中端</td><td>海光信息</td><td>29.5044</td><td>USD</td><td>4.1092</td><td>0.7765</td><td>14.3126</td><td>8</td></tr>
+<tr><td>B200</td><td>国际-高端</td><td>NVIDIA</td><td>33.9763</td><td>USD</td><td>4.7321</td><td>2.6719</td><td>9.5064</td><td>8</td></tr>
+<tr><td>Ascend 910B</td><td>国产-高端</td><td>华为昇腾</td><td>45.1551</td><td>USD</td><td>6.2890</td><td>1.0458</td><td>23.1556</td><td>8</td></tr>
+<tr><td>GB200</td><td>国际-旗舰</td><td>NVIDIA</td><td>51.7856</td><td>USD</td><td>7.2125</td><td>5.0360</td><td>13.9477</td><td>8</td></tr>
+<tr><td>GB300</td><td>国际-旗舰</td><td>NVIDIA</td><td>60.8593</td><td>USD</td><td>8.4762</td><td>5.5004</td><td>15.5515</td><td>8</td></tr>
+<tr><td>Ascend 910C</td><td>国产-旗舰</td><td>华为昇腾</td><td>67.2047</td><td>USD</td><td>9.3600</td><td>1.4884</td><td>31.6199</td><td>8</td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>📈 主力型号 30 日涨跌</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>型号</th><th>分类</th><th>30 日涨跌</th><th>数据点</th></tr></thead>
+      <tbody><tr><td>海光 DCU</td><td>国产-中端</td><td><span class="up">+239.93%</span></td><td>5</td></tr>
+<tr><td>Ascend 910C</td><td>国产-旗舰</td><td><span class="up">+228.82%</span></td><td>5</td></tr>
+<tr><td>Ascend 910B</td><td>国产-高端</td><td><span class="up">+228.40%</span></td><td>5</td></tr>
+<tr><td>寒武纪 MLU</td><td>国产-中端</td><td><span class="up">+188.62%</span></td><td>5</td></tr>
+<tr><td>H200</td><td>国际-高端</td><td><span class="down">-13.17%</span></td><td>5</td></tr>
+<tr><td>GB200</td><td>国际-旗舰</td><td><span class="down">-13.91%</span></td><td>5</td></tr>
+<tr><td>A6000</td><td>国际-中端</td><td><span class="down">-14.08%</span></td><td>5</td></tr>
+<tr><td>H100</td><td>国际-高端</td><td><span class="down">-14.61%</span></td><td>5</td></tr>
+<tr><td>A100-80G</td><td>国际-高端</td><td><span class="down">-14.78%</span></td><td>5</td></tr>
+<tr><td>GB300</td><td>国际-旗舰</td><td><span class="down">-15.67%</span></td><td>5</td></tr>
+<tr><td>RTX 3090</td><td>消费级-高端</td><td><span class="down">-19.22%</span></td><td>5</td></tr>
+<tr><td>RTX 4090</td><td>消费级-旗舰</td><td><span class="down">-21.55%</span></td><td>5</td></tr>
+<tr><td>L40S</td><td>国际-中端</td><td><span class="down">-21.78%</span></td><td>5</td></tr>
+<tr><td>B200</td><td>国际-高端</td><td><span class="down">-22.56%</span></td><td>5</td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>📉 价格走势（USD/小时）</h2>
+  <div class="grid">
+    <div class="chart-box"><canvas id="c1"></canvas></div>
+    <div class="chart-box"><canvas id="c2"></canvas></div>
+  </div>
+
+<script>
+  const labels = ["2026-07-14", "2026-07-15", "2026-07-16", "2026-07-17", "2026-07-23"];
+  const datasets = [{"label": "H100", "data": [3.43107291086351, 3.4659336002785515, 2.8555144498607246, 2.9224583913649025, 2.9298633008356547], "borderColor": "#ef4444", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "H200", "data": [4.415550348189416, 4.496598502785515, 3.8120139972144846, 3.7972239902506963, 3.8338993384401117], "borderColor": "#f97316", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "B200", "data": [6.1107508356545965, 6.075629213091922, 4.708083635097493, 4.670425905292479, 4.7320750348189415], "borderColor": "#eab308", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "GB200", "data": [8.377912221448469, 8.40923492339833, 7.238506650417827, 7.254802506963788, 7.212479874651811], "borderColor": "#22c55e", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "GB300", "data": [10.051374791086351, 9.972678621169917, 8.63018680362117, 8.56766570334262, 8.476230257660168], "borderColor": "#06b6d4", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A100-80G", "data": [2.1508852367688025, 2.147744394150418, 1.8616767757660169, 1.8293729805013927, 1.832996344011142], "borderColor": "#3b82f6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "L40S", "data": [1.555187012534819, 1.5380987116991645, 1.2131642409470753, 1.206517548746518, 1.2163931754874653], "borderColor": "#8b5cf6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A6000", "data": [1.0256380222841226, 1.0330689066852368, 0.8562472841225628, 0.8842525417827298, 0.8812350278551533], "borderColor": "#ec4899", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 4090", "data": [0.605587430362117, 0.6057856894150419, 0.4815111072423398, 0.47409540389972143, 0.47506699164345406], "borderColor": "#14b8a6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 3090", "data": [0.331950208913649, 0.33187788997214485, 0.2728972493036212, 0.27040100974930364, 0.26816382311977716], "borderColor": "#a3a3a3", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910B", "data": [1.915024373259053, 6.342499999999999, 6.0427422353760445, 6.299941643454039, 6.289005849582173], "borderColor": "#dc2626", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910C", "data": [2.8465598885793875, 9.461071169916435, 8.748754004178274, 9.39788077994429, 9.359986594707522], "borderColor": "#0ea5e9", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "海光 DCU", "data": [1.2088631615598886, 3.9062282729805013, 3.8434837047353763, 4.155773189415042, 4.109246413649025], "borderColor": "#7c3aed", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "寒武纪 MLU", "data": [1.3970351671309194, 4.554950835654596, 4.162698433147632, 4.072566713091922, 4.032114206128134], "borderColor": "#10b981", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}];
+  const baseOpts = {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: '#e2e8f0' } } },
+    scales: {
+      x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+      y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+    },
+  };
+  new Chart(document.getElementById('c1'), { type: 'line', data: { labels, datasets }, options: baseOpts });
+  const subset = [{"label": "L40S", "data": [1.555187012534819, 1.5380987116991645, 1.2131642409470753, 1.206517548746518, 1.2163931754874653], "borderColor": "#8b5cf6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "A6000", "data": [1.0256380222841226, 1.0330689066852368, 0.8562472841225628, 0.8842525417827298, 0.8812350278551533], "borderColor": "#ec4899", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 4090", "data": [0.605587430362117, 0.6057856894150419, 0.4815111072423398, 0.47409540389972143, 0.47506699164345406], "borderColor": "#14b8a6", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "RTX 3090", "data": [0.331950208913649, 0.33187788997214485, 0.2728972493036212, 0.27040100974930364, 0.26816382311977716], "borderColor": "#a3a3a3", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910B", "data": [1.915024373259053, 6.342499999999999, 6.0427422353760445, 6.299941643454039, 6.289005849582173], "borderColor": "#dc2626", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "Ascend 910C", "data": [2.8465598885793875, 9.461071169916435, 8.748754004178274, 9.39788077994429, 9.359986594707522], "borderColor": "#0ea5e9", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "海光 DCU", "data": [1.2088631615598886, 3.9062282729805013, 3.8434837047353763, 4.155773189415042, 4.109246413649025], "borderColor": "#7c3aed", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}, {"label": "寒武纪 MLU", "data": [1.3970351671309194, 4.554950835654596, 4.162698433147632, 4.072566713091922, 4.032114206128134], "borderColor": "#10b981", "backgroundColor": "rgba(0,0,0,0)", "tension": 0.25, "spanGaps": true}];
+  new Chart(document.getElementById('c2'), { type: 'line', data: { labels, datasets: subset }, options: baseOpts });
+</script>
+</body>
+</html>
