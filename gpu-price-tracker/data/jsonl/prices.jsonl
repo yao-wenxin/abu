@@ -670,3 +670,227 @@
 {"date": "2026-07-17", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "华为云", "price": 7.8518, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
 {"date": "2026-07-17", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "AutoDL", "price": 6.7043, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
 {"date": "2026-07-17", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "极智算", "price": 5.9739, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 2.2452, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 2.2114, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 5.7661, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 23.0205, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 20.4285, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 22.0412, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 14.765, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 13.0913, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 3.2081, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 3.1885, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 6.9342, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 31.4039, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 24.6884, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 30.3111, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 17.0561, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 18.0247, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 3.8343, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 3.7047, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 9.3829, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 39.4835, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 31.7586, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 30.7534, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 25.5723, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 19.6603, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 6.5419, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 5.7507, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 14.0433, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 53.8033, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 52.6402, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 45.6849, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 36.4564, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 36.3961, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 7.2983, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 6.3734, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 15.8827, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 62.5558, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 61.8004, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 68.2746, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 47.0405, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 39.7262, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 1.5199, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 1.2894, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 3.2773, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 16.0523, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 13.5724, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 12.6483, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 10.8224, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 8.3417, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "RunPod", "price": 1.0689, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 1.0159, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AWS", "price": 1.8945, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "阿里云", "price": 9.525, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 9.8366, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "华为云", "price": 8.649, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 6.2006, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "极智算", "price": 6.1267, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.8268, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.704, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AWS", "price": 1.5426, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "阿里云", "price": 7.6661, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 5.9551, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "华为云", "price": 6.1978, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 4.7704, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "极智算", "price": 3.7788, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.4647, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.3979, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 0.9308, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 3.46, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 3.0285, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 3.5081, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 2.3572, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 2.1037, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.261, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.2391, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 0.4643, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 2.3522, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 2.0571, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 1.66, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 1.4001, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 1.156, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "RunPod", "price": 10.5656, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "Vast.ai", "price": 9.2528, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "AWS", "price": 22.9723, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "阿里云", "price": 12.0107, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "腾讯云", "price": 11.124, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "华为云", "price": 13.8129, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "AutoDL", "price": 9.4762, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "极智算", "price": 7.5426, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "RunPod", "price": 16.1318, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "Vast.ai", "price": 15.8975, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "AWS", "price": 31.9696, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "阿里云", "price": 22.5071, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "腾讯云", "price": 19.2122, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "华为云", "price": 16.1672, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "AutoDL", "price": 12.8572, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "极智算", "price": 10.8799, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "RunPod", "price": 6.3564, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "Vast.ai", "price": 6.8144, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "AWS", "price": 14.7648, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "阿里云", "price": 10.07, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "腾讯云", "price": 9.0849, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "华为云", "price": 8.313, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "AutoDL", "price": 5.492, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "极智算", "price": 5.6722, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "RunPod", "price": 7.3906, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "Vast.ai", "price": 6.6481, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "AWS", "price": 13.5582, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "阿里云", "price": 8.8558, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "腾讯云", "price": 8.6454, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "华为云", "price": 7.3516, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "AutoDL", "price": 7.0335, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "极智算", "price": 6.2193, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 2.2809, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 2.2384, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 5.7451, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 22.6687, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 20.1873, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 22.1575, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 14.6702, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H100", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 13.2284, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 3.2215, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 3.1764, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 7.0145, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 31.2545, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 24.6051, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 30.2156, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 17.6054, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "H200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 17.7267, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 3.9622, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 3.6516, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 9.2486, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 38.8704, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 32.7753, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 30.4913, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 26.1302, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "B200", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 19.8613, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 6.7385, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 5.617, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 14.0522, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 53.7567, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 53.3876, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 46.7224, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 35.7069, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB200", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 35.8483, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 7.2481, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 6.1398, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 16.2828, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 63.5739, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 62.3777, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 69.8966, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 46.8983, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "GB300", "segment": "国际-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 39.877, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 1.5, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 1.2613, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 3.2628, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 16.4142, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 13.5393, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 12.2713, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 10.7793, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A100-80G", "segment": "国际-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 8.5779, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "RunPod", "price": 1.0773, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 1.046, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AWS", "price": 1.9451, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "阿里云", "price": 9.3814, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 9.6083, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "华为云", "price": 8.5227, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 6.3026, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "L40S", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "极智算", "price": 6.2545, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.819, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.714, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AWS", "price": 1.5511, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "阿里云", "price": 7.9217, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 5.8869, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "华为云", "price": 6.373, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 4.9305, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "A6000", "segment": "国际-中端", "vendor": "NVIDIA", "platform": "极智算", "price": 3.7774, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.4694, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.389, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "AWS", "price": 0.9201, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "阿里云", "price": 3.4565, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "腾讯云", "price": 3.0436, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "华为云", "price": 3.4945, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "AutoDL", "price": 2.4067, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 4090", "segment": "消费级-旗舰", "vendor": "NVIDIA", "platform": "极智算", "price": 2.1375, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "RunPod", "price": 0.2614, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "Vast.ai", "price": 0.2413, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "AWS", "price": 0.4661, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "阿里云", "price": 2.3206, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "腾讯云", "price": 2.1109, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "华为云", "price": 1.6607, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "AutoDL", "price": 1.3599, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "RTX 3090", "segment": "消费级-高端", "vendor": "NVIDIA", "platform": "极智算", "price": 1.194, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "RunPod", "price": 10.6064, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "Vast.ai", "price": 9.1476, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "AWS", "price": 23.4516, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "阿里云", "price": 11.8642, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "腾讯云", "price": 11.1089, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "华为云", "price": 13.4883, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "AutoDL", "price": 9.4194, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910B", "segment": "国产-高端", "vendor": "华为昇腾", "platform": "极智算", "price": 7.651, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "RunPod", "price": 16.4815, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "Vast.ai", "price": 15.7921, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "AWS", "price": 31.7831, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "阿里云", "price": 22.0448, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "腾讯云", "price": 19.5547, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "华为云", "price": 16.3998, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "AutoDL", "price": 13.0317, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "Ascend 910C", "segment": "国产-旗舰", "vendor": "华为昇腾", "platform": "极智算", "price": 10.7822, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "RunPod", "price": 6.4342, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "Vast.ai", "price": 6.9229, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "AWS", "price": 14.8248, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "阿里云", "price": 9.9544, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "腾讯云", "price": 9.1229, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "华为云", "price": 8.3195, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "AutoDL", "price": 5.3907, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "海光 DCU", "segment": "国产-中端", "vendor": "海光信息", "platform": "极智算", "price": 5.6542, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "RunPod", "price": 7.2642, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "Vast.ai", "price": 6.4809, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "AWS", "price": 13.1459, "currency": "USD", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "阿里云", "price": 8.9728, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "腾讯云", "price": 8.6964, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "华为云", "price": 7.5203, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "AutoDL", "price": 7.0716, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
+{"date": "2026-07-24", "model": "寒武纪 MLU", "segment": "国产-中端", "vendor": "寒武纪", "platform": "极智算", "price": 6.1899, "currency": "CNY", "usd_cny": 7.18, "source": "mock"}
